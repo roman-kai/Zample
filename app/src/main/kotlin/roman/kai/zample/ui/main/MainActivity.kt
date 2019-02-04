@@ -1,7 +1,8 @@
-package roman.kai.zample
+package roman.kai.zample.ui.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import roman.kai.zample.R
 
 class MainActivity : AppCompatActivity() {
 
